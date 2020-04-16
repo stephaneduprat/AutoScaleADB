@@ -1,0 +1,6 @@
+bench-rac1;NODE;ocid1.dbnode.oc1.eu-frankfurt-1.abtheljttgc3azdlzaou3gr44dvvgljw64wtggfq4koggeekixbomcmwmsea
+bench-rac2;NODE;ocid1.dbnode.oc1.eu-frankfurt-1.abtheljtj3suokwayqft7fkgpkmlbw3mzyhzvt52g77tqtqbtxbjynwrl6pa
+bench-si;NODE;ocid1.dbsystem.oc1.eu-frankfurt-1.abtheljt3qsra5mrngrrjjxcajekzy6lrg4g44akqeqa7ju7ta4wwpjwnbmq
+bench-adw;ADW;ocid1.autonomousdatabase.oc1.eu-frankfurt-1.abtheljsm4ovlhbomyxq7v4t5k4pqhdukmotlysbz4r5e3zpuyk5opbkwmtq
+bench-atp;ATP;ocid1.autonomousdatabase.oc1.eu-frankfurt-1.abtheljsl47zsgj2l273bxpbkgtmxlz77fnxlru6x7bi23kyhrrsqatwbalq
+STEFADW;ADW;ocid1.autonomousdatabase.oc1.eu-frankfurt-1.abtheljt3z6jhkowv4xqerlszftkc45lvku5rrq4txjqixemngf3juks5fzq
